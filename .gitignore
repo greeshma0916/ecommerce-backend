@@ -1,0 +1,14 @@
+# Environment variables — NEVER commit this!
+.env
+
+# Node dependencies
+node_modules/
+npm-debug.log*
+
+# Log files
+*.log
+error.log
+
+# Temp seed scripts
+seedHomeGarden.js
+removeDuplicates.js
